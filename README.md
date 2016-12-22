@@ -1,7 +1,3 @@
-### Auto-Grading with Continuous Integration
-
-These are the resources I used for the exercise.
-
 #### kubernetes-gitlab 
 This folder contains my Alpha build script (gcloud-build.sh) that was used to deploy GitLab on Google Cloud Platform (GCP). You will also find the namespace & deployment descriptors.
 

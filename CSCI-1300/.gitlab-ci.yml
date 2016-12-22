@@ -1,0 +1,3 @@
+image: python:2.7
+job1:
+  script: export PYTHONPATH=hw1/:hw2/:hw3/;python tests/unitTest_hw3.py;python tests/unitTest_hw2.py;python tests/unitTest_hw1.py
